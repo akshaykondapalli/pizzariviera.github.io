@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<array/>
+	<key>Item 0</key>
+	<string>Napoli</string>
+	<key>item 1</key>
+	<string>Capriciosa</string>
+	<key>item 2</key>
+	<string>Quattro</string>
+	<key>item 3</key>
+	<string>American</string>
+	<key>item 4</key>
+	<string>Vegetarian</string>
+	<key>item 5</key>
+	<string>Marinara</string>
+	<key>item 6</key>
+	<string>Chicken</string>
+	<key>item 7</key>
+	<string>Aussie</string>
+	<key>item 8</key>
+	<string>Mexican</string>
+	<key>item 9</key>
+	<string>Riviera Special</string>
+	<key>item 10</key>
+	<string>Seafood</string>
+	<key>item 11</key>
+	<string>Extra Special</string>
+	<key>item 12</key>
+	<string>Chicken Supreme</string>
+	<key>item 13</key>
+	<string>Hawaiian</string>
+	<key>item 14</key>
+	<string>Italian</string>
+	<key>item 15</key>
+	<string>Bolognaise</string>
+	<key>item 16</key>
+	<string>Meat Lovers</string>
+	<key>item 17</key>
+	<string>Tropical Tango</string>
+	<key>Image</key>
+	<array>
+		<string>Napoli.jpg</string>
+		<string>Capriciosa.jpg</string>
+		<string>Quattro.jpg</string>
+		<string>American.jpg</string>
+		<string>Vegetarian.jpg</string>
+		<string>Marinara.jpg</string>
+		<string>Chicken.jpg</string>
+		<string>Aussie.jpg</string>
+		<string>Mexican.jpg</string>
+		<string>Riviera Special.jpg</string>
+		<string>Seafood.jpg</string>
+		<string>Extra Special.jpg</string>
+		<string>Chicken Supreme.jpg</string>
+		<string>Hawaiian.jpg</string>
+		<string>Italian.jpg</string>
+		<string>Bolognaise.jpg</string>
+		<string>Meat Lovers.jpg</string>
+		<string>Tropical Tango.jpg</string>
+	</array>
+	<key>PrepTime</key>
+	<array>
+		<string>10min</string>
+		<string>20min</string>
+		<string>13min</string>
+		<string>22min</string>
+		<string>11min</string>
+		<string>11min</string>
+		<string>14min</string>
+		<string>15min</string>
+		<string>7min</string>
+		<string>4min</string>
+		<string>2min</string>
+		<string>6min</string>
+		<string>8min</string>
+		<string>5min</string>
+		<string>9min</string>
+		<string>5min</string>
+		<string>9min</string>
+		<string>6min</string>
+	</array>
+</dict>
+</plist>
